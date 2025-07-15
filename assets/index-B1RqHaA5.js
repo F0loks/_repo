@@ -9645,7 +9645,7 @@ const gn = [{
                     className: "relative w-full aspect-square transition-all duration-700 hover:opacity-75",
                     style: n(l),
                     children: N.jsx("img", {
-                        src: `/gifts/${r}`,
+                        src: `gifts/${r}`,
                         alt: r,
                         className: "w-full h-full object-contain"
                     })
