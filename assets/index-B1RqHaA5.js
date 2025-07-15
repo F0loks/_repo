@@ -9294,62 +9294,62 @@ Gl.createRoot = Wo.createRoot,
 Gl.hydrateRoot = Wo.hydrateRoot;
 const gn = [{
     name: "Gummy Frog",
-    image: "/gifts/Gummy_frog_5166ton.png",
+    image: "gifts/Gummy_frog_5166ton.png",
     price: 5166,
     rarity: "legendary"
 }, {
     name: "Frosthorm",
-    image: "/gifts/Frosthorm_887ton.png",
+    image: "gifts/Frosthorm_887ton.png",
     price: 887,
     rarity: "legendary"
 }, {
     name: "Glacier",
-    image: "/gifts/Glacier_555ton.png",
+    image: "gifts/Glacier_555ton.png",
     price: 555,
     rarity: "legendary"
 }, {
     name: "Malibu",
-    image: "/gifts/malibu_26ton.png",
+    image: "gifts/malibu_26ton.png",
     price: 26,
     rarity: "epic"
 }, {
     name: "Graveyard",
-    image: "/gifts/Gravereyrd_15ton.png",
+    image: "gifts/Gravereyrd_15ton.png",
     price: 15,
     rarity: "epic"
 }, {
     name: "Early Bird",
-    image: "/gifts/early_Bird_9ton.png",
+    image: "gifts/early_Bird_9ton.png",
     price: 9,
     rarity: "rare"
 }, {
     name: "Spotty Leo",
-    image: "/gifts/Spotty_Leo_8ton.png",
+    image: "gifts/Spotty_Leo_8ton.png",
     price: 8,
     rarity: "rare"
 }, {
     name: "Pearl White",
-    image: "/gifts/Pearl_white_6ton.png",
+    image: "gifts/Pearl_white_6ton.png",
     price: 6,
     rarity: "rare"
 }, {
     name: "Maleficar",
-    image: "/gifts/Maleficar_5ton.png",
+    image: "gifts/Maleficar_5ton.png",
     price: 5,
     rarity: "rare"
 }, {
     name: "The Circle",
-    image: "/gifts/The_Circle_3ton.png",
+    image: "gifts/The_Circle_3ton.png",
     price: 3,
     rarity: "common"
 }, {
     name: "Wonka Berry",
-    image: "/gifts/Wonka_berry_2ton.png",
+    image: "gifts/Wonka_berry_2ton.png",
     price: 2,
     rarity: "common"
 }, {
     name: "Barbie Day",
-    image: "/gifts/Barbie_day_2ton.png",
+    image: "gifts/Barbie_day_2ton.png",
     price: 2,
     rarity: "common"
 }]
